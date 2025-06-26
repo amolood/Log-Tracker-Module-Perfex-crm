@@ -79,8 +79,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 This module is released under the MIT License. See [LICENSE](LICENSE) for details.
 
----
-
 **Author:** [Amolood](https://amolood.com)
-
-*This project contains no hardcoded sensitive data and is safe for public release.* 

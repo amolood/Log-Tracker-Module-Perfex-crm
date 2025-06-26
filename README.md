@@ -47,6 +47,25 @@ To receive log notifications on Telegram:
 
 *No Telegram credentials are stored in the codebase. All configuration is done via the admin UI.*
 
+## Screenshots
+
+**Log Dashboard Overview**
+
+![Log Dashboard](https://raw.githubusercontent.com/amolood/Log-Tracker-Module-Perfex-crm/refs/heads/main/screenshot/Screenshot%202025-06-26%20163627.png)
+
+---
+
+**Live Log Viewer & Filtering**
+
+![Log Viewer](https://raw.githubusercontent.com/amolood/Log-Tracker-Module-Perfex-crm/refs/heads/main/screenshot/Screenshot%202025-06-26%20163652.png)
+
+---
+
+**Settings && Telegram Integration**
+
+![Telegram Settings](https://raw.githubusercontent.com/amolood/Log-Tracker-Module-Perfex-crm/refs/heads/main/screenshot/Screenshot%202025-06-26%20163553.png)
+
+
 ## Multi-language Support
 
 - English and Arabic language files are included.
